@@ -1,2 +1,2 @@
 # redirect-pages
-Simple redirectin html page
+Simple redirecting html page
